@@ -1,7 +1,7 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "Blog"
+title: El blog de Iabin"
+description: "Bienvenido a mi blog personal. Aquí encontrarás entradas de viajes, tecnología, desarrollo, etc. "
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/blog'
@@ -73,7 +73,7 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "disabled"
+authorbox: "enabled"
 
 # Sass
 sass:
