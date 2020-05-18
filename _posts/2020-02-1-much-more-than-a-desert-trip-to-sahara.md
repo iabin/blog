@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Much more than a desert: A trip into the Sahara"
-author: john
+author: iabin
 categories: [ Travel ]
 image: assets/images/16.jpg
 ---
