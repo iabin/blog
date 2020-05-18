@@ -5,8 +5,8 @@ description: "Bienvenido a mi blog personal. Aquí encontrarás entradas de viaj
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/blog'
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
+google_analytics: 'UA-166991022-1'
+disqus: 'iabin'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -38,7 +38,7 @@ authors:
     email: iabinelo@gmail.com
     web: https://twitter.com/iabin
     twitter: https://twitter.com/iabin
-    description: "Estudié ciencias de la computación en la UNAM. Soy desarrollador Full stack, disfruto de viajar, toco la guitarra clásica e intento aprender a tocar el piano. La computación es mi pasión."
+    description: "Estudié ciencias de la computación en la UNAM. Soy desarrollador Full stack, disfruto de viajar, me gusta la guitarra clásica. La computación es mi pasión."
 
 
     
