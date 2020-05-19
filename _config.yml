@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: '/blog'
 google_analytics: 'UA-166991022-1'
 disqus: 'iabin'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://github.us18.list-manage.com/subscribe/post?u=dbe713f0cdacd4d2c55dcbfa9&amp;id=d2db46647f'
 include: ["_pages"]
 permalink: /:title/
 email: iabin@gmail.com
@@ -79,7 +79,7 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
 authorbox: "enabled"

@@ -9,7 +9,7 @@
 <title>{{ page.title }} | {{site.name}}</title>
 
 {% seo %}
-    
+
 <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
@@ -51,11 +51,13 @@
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <h3>Navigation</h3>
+        <h3>Navegación</h3>
         <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about">About <span class="badge badge-primary">Memoirs Jekyll Theme</span></a></li>
-        <li><a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/">Get Memoirs</a></li>      
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>       
+        <li><a href="{{ site.baseurl }}/about">Acerca de mi</a></li>
+        <li><a target="_blank" href="{{ site.baseurl }}/categories">Categorías</a></li>      
+        <li><a target="_blank" href="{{ site.baseurl }}/tags">Etiquetas</a></li>      
+        <li><a href="{{ site.baseurl }}/contact">Contácteme</a></li>   
+        <li><a href=" https://github.com/iabin   ">Sígueme en Github</a></li> 
     </ul>   
 </nav>
 
@@ -95,7 +97,7 @@
     <!-- Newsletter
     ================================================== -->
     <div class="newsletter text-center">
-        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
+        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Nunca te pierdas un post. Suscríbete!</span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group d-inline-flex">
             <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
@@ -107,16 +109,17 @@
     
 </div>
 
+
+
+
+
 <!-- Begin Footer
 ================================================== -->
 <footer class="footer">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-12 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
-            </div>
-            <div class="col-md-6 col-sm-12 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a> by WowThemes.net
+                Copyright © {{ site.time | date: "%Y" }} Blog
             </div>
         </div>
     </div>
