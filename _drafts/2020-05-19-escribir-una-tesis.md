@@ -2,8 +2,8 @@
 layout: post
 title:  "¿Cómo escribir una tesis en Latex y no morir en el intento?"
 author: iabin
-tags: [tutorial, escribir]
-categories: [ Educación]
+tags: [educación, universidad]
+categories: [Tutorial]
 image: assets/images/posts/tesis/tesis.jpg
 ---
 
@@ -28,4 +28,18 @@ configurar el ambiente para estos puede ser complicado.
 Para personas no informáticas les recomiendo usar la página [OverLeaf](https://www.overleaf.com/project)
 Es un editor online para Latex muy confiable, creen una cuenta hagan login y creen un "Blank Project".
 
+En esta tutorial usaremos [OverLeaf](https://www.overleaf.com/project) debido a su simplicidad.
+
 ![image alt ><](/blog/assets/images/posts/tesis/capture1.PNG "Crear proyecto Overleaf")
+
+## 2. La estructura
+
+La estructura es sumamente importante en proyectos tan grandes como este, piensa que tu tesis
+es literalmente un libro completo, dependiendo de tus gustos y exigencias, puede contener inmensas
+cantidades de contenido, además de estilos y diferentes extensiones para facilitar algunas tareas
+específicas de tu área, por ello una estructura organizada es fundamental.
+
+En la raiz de tu proyecto crea esta estructura de carpetas.
+![image alt ><](/blog/assets/images/posts/tesis/2.PNG "Carpetas")
+
+
